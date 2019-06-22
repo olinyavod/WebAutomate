@@ -1,6 +1,4 @@
-using System;
-
-namespace WebAutomate.Models
+namespace WebAutomate.ViewModels
 {
 	public class ErrorViewModel
 	{
